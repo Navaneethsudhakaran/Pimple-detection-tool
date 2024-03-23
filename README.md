@@ -25,5 +25,6 @@ Here's a brief breakdown of the code's key steps In Goggle Colab:
 10.Tuned Model: A new Random Forest Classifier with tuned hyperparameters is trained.
 
 11.Accuracy after Tuning: We present the improved accuracy achieved after hyperparameter tuning.
+
 This code encompasses the entire journey of creating, training, and evaluating machine learning models, combining a CNN for image classification with a Random Forest Classifier for synthetic data.
 
