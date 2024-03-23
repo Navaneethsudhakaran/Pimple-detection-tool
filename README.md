@@ -5,7 +5,9 @@ We are thrilled to unveil our latest innovation—a cutting-edge pimple detectio
 Here's a brief breakdown of the code's key steps In Goggle Colab:
 
 1.CNN Model Definition: We've crafted a Convolutional Neural Network (CNN) model for image classification, with multiple layers and full compatibility for training.
+
 2.Data Preprocessing: Image data is meticulously prepared using data augmentation techniques, and it's organized into training and testing sets.
+
 3.Model Training: Our CNN model is trained on the prepared image data for a specific number of epochs.
 4.Model Saving: The trained model is saved for future use and reference.
 5.Data Loading: The code efficiently loads image data from folders with a predefined structure.
